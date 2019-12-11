@@ -5,9 +5,9 @@ AI agent that solves classic Minesweeper game puzzles.
 
 This is a course project on Artificial Intelligence.
 There are three different difficulty modes:
-- Beginner: 8 x 8 tiles with 10 mines. The AI agent can solve it with 70.6%
-- Intermediate: 16 x 16 tiles with 40 mines. The AI agent can solve it with 65.5%
-- Expert: 16 x 30 tiles with 99 mines. The AI agent can solve it with 8.7%
+- Beginner: 8 x 8 tiles with 10 mines. The AI agent can solve it with 70.2%
+- Intermediate: 16 x 16 tiles with 40 mines. The AI agent can solve it with 65.4%
+- Expert: 16 x 30 tiles with 99 mines. The AI agent can solve it with 8.4%
 The success rates are based on 1000 random test boards for each difficulty.
 
 ## Logic
