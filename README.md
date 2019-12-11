@@ -15,7 +15,6 @@ The success rates are based on 1000 random test boards for each difficulty.
 MinesweeperAI works its logic in two phases. <br/>
 - First phase: Solves the obvious one (e.g. when the number is zero, it's safe to explore all its neighboring nodes) in a BFS manner. Then solve all deterministic ones as Constraint Satisfaction Problems (constraints are given by its neighboring nodes). <br/>
 - Second phase: When the deterministic logic inevitably fails to work, we have to break the deadlock with a guess and take the random step. <br/>
-Afterwards, the AI will repeat from the first phase to third phase again. <br/>
 
 ## Setup
 
