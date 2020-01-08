@@ -1,7 +1,7 @@
 # MineSweeperAI
 AI agent that solves classic Minesweeper game puzzles.
 
-## Description
+## About MineSweeperAI
 
 This is a course project on Artificial Intelligence.
 There are three different difficulty modes:
