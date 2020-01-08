@@ -28,7 +28,6 @@ In the Minesweeper_Python/src/ folder, run the following command to run the AI a
 ```
 python3 Main.py -f ../../WorldGenerator/Problems/ -v
 ```
-<br/>
 
 ## Programming Language
 Python
